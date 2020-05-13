@@ -63,3 +63,17 @@ margin-top: -20%;
 #main{
     color:hsl(256, 26%, 20%);
 }
+h4{
+    font-family:'DM Serif Display', serif;
+    color:hsl(256, 26%, 20%);
+}
+
+h6{
+    font-family:'DM Serif Display', serif;
+    color: hsl(256, 26%, 20%);
+}
+
+.container{
+    display:flex;
+    justify-content:space-evenly;
+}
