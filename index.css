@@ -57,5 +57,9 @@ hr{
 }
 
 #spiral{
-margin-top: -50%;
+margin-top: -20%;
+}
+
+#main{
+    color:hsl(256, 26%, 20%);
 }
