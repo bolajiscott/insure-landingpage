@@ -80,7 +80,7 @@ h6{
 .sub{
     background-color:hsl(256, 26%, 20%);
     height: 250px;
-    width: 80%;
+    width: 77%;
     margin-left: 10%;
 }
 
@@ -110,4 +110,7 @@ h6{
 }
 .sv{
    float: right;
+   margin-top: -18%;
+   margin-right: 13%;
+   padding-top: 2%;
 }
