@@ -114,3 +114,12 @@ h6{
    margin-right: 13%;
    padding-top: 2%;
 }
+.sub-footer{
+    background-color:hsl(0, 0%, 98%);
+    height: 40vh;
+    
+}
+.sb{
+    margin-left: 10%;
+}
+
