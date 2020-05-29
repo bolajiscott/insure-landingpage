@@ -121,13 +121,21 @@ h6{
 }
 .sb{
     margin-left: 10%;
+    margin-top: 5px;
 }
 
 .icon{
     float: right;
     margin-top: -20%;
-}grid-container{
-    height: 20px;
 }
-.
 
+.footer{
+    display: flex;
+    justify-content:space-around;
+    margin-top: -18%;
+  
+}
+
+#max{
+width: 400px;
+}
